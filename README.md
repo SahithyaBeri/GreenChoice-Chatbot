@@ -50,4 +50,4 @@ Reduced irrelevant responses through semantic search
 
 Automated response logging using Relay.app
 
-Author
+Sahithya BR
